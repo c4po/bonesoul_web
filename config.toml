@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://www.bonesoul.com/"
+baseurl = "."
 languageCode = "en-us"
 title = "Bonesoul Inc."
 # Enter your tracking code to enable Google Analytics
