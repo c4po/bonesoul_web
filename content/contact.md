@@ -18,7 +18,7 @@ If you're curious about staying up to date with what's going on at Bonesoul, *si
 
 Our **phone number** is: 
 
-> (416) 371-6991
+> +1 (416) 371-6991
 
 Our **email** is: 
 
