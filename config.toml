@@ -60,17 +60,17 @@ googleAnalytics = ""
         [[params.services.row]]
 
             [[params.services.row.list]]
-                icon = "fa-shopping-cart"
-                title = "Continue Intergration and Continues Deliver"
+                icon = "fa-bolt"
+                title = "Continuous Integration and Continuous Delivery"
                 description = "Lorem ipsum dolor sit , consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
 
             [[params.services.row.list]]
-                icon = "fa-laptop"
+                icon = "fa-mixcloud"
                 title = "Migrate to Cloud platform"
                 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
 
             [[params.services.row.list]]
-                icon = "fa-lock"
+                icon = "fa-cloud"
                 title = "Build Private Cloud"
                 description = "Work with AWS, GAE."
 
