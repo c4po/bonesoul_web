@@ -7,7 +7,7 @@ title = "about"
 
 # about bonesoul Inc.
 
-# A Devops company
+# A DevOps company
 
 # docker
 
