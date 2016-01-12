@@ -7,4 +7,4 @@ title = "about"
 
 # about bonesoul Inc.
 
-# Cool stuff
+# A Devops company
