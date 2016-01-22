@@ -62,17 +62,18 @@ googleAnalytics = ""
             [[params.services.row.list]]
                 icon = "fa-bolt"
                 title = "Continuous Integration and Continuous Delivery"
-                description = "Lorem ipsum dolor sit , consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+                description = "We have deep understanding of key DevOps practices including: Continuous Planning,
+Continuous Testing, Continuous Build & Integration, Continuous Deployment & Delivery."
 
             [[params.services.row.list]]
                 icon = "fa-mixcloud"
                 title = "Migrate to Cloud platform"
-                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+                description = "We work closely with all major cloud computing provider like AWS, GAE, Azure, Softlayer and Digital Ocean."
 
             [[params.services.row.list]]
                 icon = "fa-cloud"
                 title = "Build Private Cloud"
-                description = "Work with AWS, GAE."
+                description = "We can help enterprise build a flexible, easy-to-managethe private cloud with your existing infrastructure."
 
 	# Portfolio section
 	[params.portfolio]
