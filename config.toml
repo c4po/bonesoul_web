@@ -81,7 +81,7 @@ googleAnalytics = ""
 		# at the root of this Hugo site.
 		# For more informtion take a look at the README.
 		title = "Portfolio"
-		subtitle = "Lorem ipsum dolor sit amet consectetur."
+		subtitle = "our projects."
 
 		[params.portfolio.modal]
             client = "Client"
