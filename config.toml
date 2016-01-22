@@ -62,8 +62,7 @@ googleAnalytics = ""
             [[params.services.row.list]]
                 icon = "fa-bolt"
                 title = "Continuous Integration and Continuous Delivery"
-                description = "We have deep understanding of key DevOps practices including: Continuous Planning,
-Continuous Testing, Continuous Build & Integration, Continuous Deployment & Delivery."
+                description = "We have deep understanding of key DevOps practices including: Continuous Planning,Continuous Testing, Continuous Build & Integration, Continuous Deployment & Delivery."
 
             [[params.services.row.list]]
                 icon = "fa-mixcloud"
